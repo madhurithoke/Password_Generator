@@ -1,1 +1,1 @@
-# Password_Generator
+A simple and responsive Password Generator web application built using HTML, CSS, and JavaScript. This app generates strong, random passwords based on the specified length, which can then be copied to the clipboard for easy use.
